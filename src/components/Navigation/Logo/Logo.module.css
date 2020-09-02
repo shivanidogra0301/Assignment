@@ -1,0 +1,19 @@
+.Logo{
+    margin-right: 1.4vh;
+    
+}
+.Logo img{
+        width: 7vh;
+        margin-right: 10px;
+    
+    }
+
+.Logo a{
+        color: #D2691E;
+        font-size: 7vh;
+        margin-right: 2vh;
+        letter-spacing: -1px; 
+        text-decoration: none;
+        /* position: absolute; */
+        
+}

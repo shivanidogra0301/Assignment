@@ -1,0 +1,77 @@
+.PhotosGallery{
+    position: relative;
+}
+.Map{
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    
+}
+
+.Air{
+    position: absolute;
+    right: 10%;
+    width: 25vh;
+    top: 10%;
+}
+
+
+
+.Water{
+    position: absolute;
+    top: 20%;
+    left: 0;
+    width: 25vh;
+}
+
+.Indoor{
+    position: absolute;
+    bottom: 5%;
+    left: 20px;
+    width: 25vh;
+}
+
+.Land{
+    position: absolute;
+    bottom: 20%;
+    right: 10%;
+    width: 25vh;
+}
+
+.PhotosGallery button{
+    border: none;
+    color: white;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 28%;
+    position: absolute;
+}
+
+.darkblue{
+    background-color: 	#4169E1;
+    top: 5%;
+    right: 20%;
+}
+
+.blue{
+    background-color:	#00BFFF;
+    top: 45%;
+    left: 0;
+}
+
+.green{
+    background-color: 	#32CD32;
+    bottom: 40%;
+    right: 3%;
+}
+.grey{
+    background-color: 	#C0C0C0;
+    bottom: 19%;
+    left: 27%;
+}
+

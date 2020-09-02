@@ -1,0 +1,43 @@
+.AboutSection{
+    padding: 30px;
+}
+
+.brownColor{
+    color:  #ffa500;
+}
+
+.heading{
+    font-size: 8vh;
+    margin : 0;
+    font-weight: bold;
+}
+
+.content{
+    font-size: 3.5vh;
+}
+
+.AboutSection button{
+     border: 1px solid #ffa500 ;
+    outline: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    margin-right: 5px;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 45%;
+}
+
+.brownbutton{
+    background-color: #ffa500 ;
+    color: white;
+}
+
+.whitebutton{
+    color: #ffa500;
+    background-color: transparent;
+}
+.displayinginline{
+    display: inline-block;
+    margin-right: 10px;
+}
